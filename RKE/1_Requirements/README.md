@@ -26,7 +26,42 @@
 |LL4|All LEDs should turn ON in anticlockwise manner when switch pressed 4 times|
 
 
+## SWOT ANALYSIS
+**Strength**
+  * It Can Be Easily Accessible.
+  * Advanced Security. The latest systems require a unique code for unlocking the car, making it harder to steal. 
+  * Convenience
+  * Remote starting
+  
+**Weakness**
+-- Could be hacked. Security is improving, but some systems have been susceptible to hacking and cars have been stolen this way.
 
-##  4 W's and 1 H
+**Opportunity**
+-- The growing demand for convenience features in cars are driving the growth Remote keyless Entry system.
+
+**Threats**
+-- possibility for hackers to manipulate the technology and steal your vehicle.
+
+# 4W&#39;s and 1&#39;H
+
+## Who:
+
+**Everyone who have vechicles can use this Remote Keyless Entry System.**
+
+## What:
+
+**Remote Keyless entry systems allow you to unlock and lock the doors to your vehicle without using a key.**
+
+## When:
+
+**Keyless entry is a much-appreciated safety and convenience feature these days, serving as a replacement to the previously standard remote unlocking systems.**
+
+## Where:
+
+**Remote Keyless Entry system is widely used in automobiles, smartlocks.**
+
+## How:
+
+**The electronic chip in key fobs functions as an RF transmitter emitting a wireless signal that communicates only with the correct vehicle once it's in close range. This allows you to gain access to the car with the smart key in your pocket.**
 
 ## Applications
