@@ -22,13 +22,13 @@ Print Door status (Blue switch press four times- All led on in anti-clockwise ma
 | HL2  |  Receiver is required to receive and verify the signal |
 | HL3  | |Print window status when blue switch on |
 |HL4|Print car battery info when blue switch press three times|
-|HL5Print Door status when blue switch press four times|
+|HL5|Print Door status when blue switch press four times|
 
 
 
 
 ## Low Level Requirements
-| ID  | lOW level requirements |
+| ID  | LOW level requirements |
 | ------------- | ------------- |
 | LL1  |All LEDs should turn ON at the same time when blue switch pressed once|
 | LL2  | All LEDs should turn OFF at the same timewhen blue switch pressed twice  |
