@@ -1,6 +1,6 @@
 # Remote Keyless Entry System 
 
-## Abstract 
+## Description
 
 * A smart entry system is an electronic lock that controls access to vehicle without using a traditional mechanical key.The term remote keyless system (RKS), also called keyless entry or remote central locking, refers to a lock that uses an electronic remote control as a key which is activated by a handheld device.The system is controlled by a control unit in the car and a transmitter, often known as a fob or key fob, with buttons to activate the system's functionality.
 
