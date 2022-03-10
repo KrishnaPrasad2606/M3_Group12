@@ -15,3 +15,24 @@ Print alarm status - (Blue switch press two times- All led off at the same time
 Print car battery info – (Blue switch press three times- All led on in clockwise manner)
 Print Door status (Blue switch press four times- All led on in anti-clockwise manner)
 
+# High level requirements
+| ID  | High level requirements |
+| ------------- | ------------- |
+| HL1  |Transmitter is required to transmit RF signals from the key|
+| HL2  |  Receiver is required to receive and verify the signal |
+| HL3  | |Print window status when blue switch on |
+|HL4|Print car battery info when blue switch press three times|
+|HL5Print Door status when blue switch press four times|
+
+
+
+
+## Low Level Requirements
+| ID  | lOW level requirements |
+| ------------- | ------------- |
+| LL1  |All LEDs should turn ON at the same time when blue switch pressed once|
+| LL2  | All LEDs should turn OFF at the same timewhen blue switch pressed twice  |
+| LL3  | All LEDs should turn ON in clockwise manner when blue switch pressed thrice |
+|LL4|All LEDs should turn ON in anticlockwise manner when blue switch pressed 4 times|
+
+
