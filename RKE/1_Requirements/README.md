@@ -6,20 +6,26 @@
 
 
 ## High Level Requirements 
+| ID  | High level requirements |
+| ------------- | ------------- |
+| HL1  |Transmitter is required to transmit RF signals from the key|
+| HL2  |  Receiver is required to receive and verify the signal |
+| HL3  | Print Lock when switch clicked once |
+|HL4|print unlock when switch clicked twice|
+|HL5|Print alarm activation/deactivation when switch clicked 3 times|
+|HL6|Print approach light when switch clicked four times|
 
-* Transmitter is required to transmit RF signals from the key
-* Receiver is required to receive and verify the signal 
-* Print Lock when switch clicked once
-* print unlock when switch clicked twice 
-* Print alarm activation/deactivation when switch clicked 3 times
-* Print approach light when switch clicked four times
+
 
 ## Low Level Requirements
+| ID  | lOW level requirements |
+| ------------- | ------------- |
+| LL1  |All LEDs should turn ON when switch pressed once|
+| LL2  | All LEDs should turn OFF when switch pressed twice  |
+| LL3  | All LEDs should turn ON in clockwise manner when switch pressed thrice |
+|LL4|All LEDs should turn ON in anticlockwise manner when switch pressed 4 times|
 
-* All LEDs should turn ON when switch pressed once
-* All LEDs should turn OFF when switch pressed twice
-* All LEDs should turn ON in clockwise manner when switch pressed thrice
-* All LEDs should turn ON in anticlockwise manner when switch pressed 4 times
+
 
 ##  4 W's and 1 H
 
