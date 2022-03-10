@@ -20,7 +20,7 @@ Print Door status (Blue switch press four times- All led on in anti-clockwise ma
 | ------------- | ------------- |
 | HL1  |Transmitter is required to transmit RF signals from the key|
 | HL2  |  Receiver is required to receive and verify the signal |
-| HL3  | |Print window status when blue switch on |
+| HL3  | Print window status when blue switch on |
 |HL4|Print car battery info when blue switch press three times|
 |HL5|Print Door status when blue switch press four times|
 
