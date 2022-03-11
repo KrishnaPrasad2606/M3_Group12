@@ -6,3 +6,5 @@
 #### low Level Flow Chart Behavioural Diagram
 
 ![low2](https://user-images.githubusercontent.com/85895650/157803992-b1127440-981c-4d34-97d3-71e9f306a1e6.png)
+## Structural Diagram
+![SD](https://user-images.githubusercontent.com/85895650/157818939-19884117-d688-45bc-a130-655241850783.png)
