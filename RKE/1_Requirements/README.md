@@ -66,6 +66,6 @@
 
 ## Applications
 
-**This can be used in any automobile 
-**Can be used in Doors of buildings for security
-**Can be used to trigger alarm if any suspicious activity is detected
+* This can be used in any automobile 
+* Can be used in Doors of buildings for security
+* Can be used to trigger alarm if any suspicious activity is detected
