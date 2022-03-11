@@ -34,6 +34,12 @@
 ![5W   1H](https://user-images.githubusercontent.com/99133249/157823436-c8e1f990-2957-4704-a378-24514d9cf569.jpg)
 
 
+## block diagram 
+
+![SD](https://user-images.githubusercontent.com/85895650/157818939-19884117-d688-45bc-a130-655241850783.png)
+
+
+
 ## Structural diagram
 
 
