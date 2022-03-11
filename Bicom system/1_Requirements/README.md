@@ -37,6 +37,7 @@ Print Door status (Blue switch press four times- All led on in anti-clockwise ma
 
 
 # SWOT Analysis
+![Screenshot (192)](https://user-images.githubusercontent.com/85895650/157807425-a6b9931d-a453-466f-b807-5ee8a653b552.png)
 
 
 
