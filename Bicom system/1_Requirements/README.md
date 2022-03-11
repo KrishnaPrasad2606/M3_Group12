@@ -45,8 +45,8 @@ Print Door status (Blue switch press four times- All led on in anti-clockwise ma
 
 # 5W's and 1H
 
+![WH web (1)](https://user-images.githubusercontent.com/98822676/157813140-936f89cd-ecd5-4b1a-bcdc-e1344a258116.jpg)
 
-![WH web](https://user-images.githubusercontent.com/98822676/157811924-ddb932e6-167d-4759-84be-c3ecb65058d8.png)
 
 
 
