@@ -27,7 +27,8 @@
 
 
 ## SWOT ANALYSIS
-![swot analysis](https://user-images.githubusercontent.com/99133249/157820408-2b8919d3-404d-41d5-93af-e194c50227b2.JPG)
+![swot analysis](https://user-images.githubusercontent.com/99133249/157821301-51cc38fb-60ca-490f-b928-23da30d2861f.JPG)
+
 
 # 4W&#39;s and 1&#39;H
 
