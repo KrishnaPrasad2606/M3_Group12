@@ -30,7 +30,7 @@
 ![swot analysis](https://user-images.githubusercontent.com/99133249/157821301-51cc38fb-60ca-490f-b928-23da30d2861f.JPG)
 
 
-# 4W&#39;s and 1&#39;H
+# 5W&#39;s and 1&#39;H
 ![5W   1H](https://user-images.githubusercontent.com/99133249/157823436-c8e1f990-2957-4704-a378-24514d9cf569.jpg)
 
 
