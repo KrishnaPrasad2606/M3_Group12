@@ -31,26 +31,8 @@
 
 
 # 4W&#39;s and 1&#39;H
+![5W   1H](https://user-images.githubusercontent.com/99133249/157823436-c8e1f990-2957-4704-a378-24514d9cf569.jpg)
 
-## Who:
-
-**Everyone who have vechicles can use this Remote Keyless Entry System.**
-
-## What:
-
-**Remote Keyless entry systems allow you to unlock and lock the doors to your vehicle without using a key.**
-
-## When:
-
-**Keyless entry is a much-appreciated safety and convenience feature these days, serving as a replacement to the previously standard remote unlocking systems.**
-
-## Where:
-
-**Remote Keyless Entry system is widely used in automobiles, smartlocks.**
-
-## How:
-
-**The electronic chip in key fobs functions as an RF transmitter emitting a wireless signal that communicates only with the correct vehicle once it's in close range. This allows you to gain access to the car with the smart key in your pocket.**
 
 ## Applications
 
