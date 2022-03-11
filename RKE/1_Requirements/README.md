@@ -65,3 +65,7 @@
 **The electronic chip in key fobs functions as an RF transmitter emitting a wireless signal that communicates only with the correct vehicle once it's in close range. This allows you to gain access to the car with the smart key in your pocket.**
 
 ## Applications
+
+**This can be used in any automobile 
+**Can be used in Doors of buildings for security
+**Can be used to trigger alarm if any suspicious activity is detected
