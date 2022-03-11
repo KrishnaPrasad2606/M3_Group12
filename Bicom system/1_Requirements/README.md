@@ -54,11 +54,11 @@ Print Door status (Blue switch press four times- All led on in anti-clockwise ma
 # Applications
 BiCom system has other applications such as 
 
-1.Added convenience in opening and closing windows, sliding roofs, sliding doors and tailgates. 
+1. Added convenience in opening and closing windows, sliding roofs, sliding doors and tailgates. 
 
-2.An “emergency button” is integrated into the key for enhanced security. 
+2. An “emergency button” is integrated into the key for enhanced security. 
 
-3.It triggers an acoustical and visual alarm from the vehicle at the push of a button.
+3. It triggers an acoustical and visual alarm from the vehicle at the push of a button.
 
 
 
