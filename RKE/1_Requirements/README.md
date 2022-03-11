@@ -27,20 +27,7 @@
 
 
 ## SWOT ANALYSIS
-**Strength**
-  * It Can Be Easily Accessible.
-  * Advanced Security. The latest systems require a unique code for unlocking the car, making it harder to steal. 
-  * Convenience
-  * Remote starting
-  
-**Weakness**
--- Could be hacked. Security is improving, but some systems have been susceptible to hacking and cars have been stolen this way.
-
-**Opportunity**
--- The growing demand for convenience features in cars are driving the growth Remote keyless Entry system.
-
-**Threats**
--- possibility for hackers to manipulate the technology and steal your vehicle.
+![swot analysis](https://user-images.githubusercontent.com/99133249/157820408-2b8919d3-404d-41d5-93af-e194c50227b2.JPG)
 
 # 4W&#39;s and 1&#39;H
 
