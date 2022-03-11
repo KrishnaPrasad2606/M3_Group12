@@ -27,12 +27,29 @@ Print Door status (Blue switch press four times- All led on in anti-clockwise ma
 
 
 
-## Low Level Requirements
+# Low Level Requirements
 | ID  | LOW level requirements |
 | ------------- | ------------- |
 | LL1  |All LEDs should turn ON at the same time when blue switch pressed once|
 | LL2  | All LEDs should turn OFF at the same timewhen blue switch pressed twice  |
 | LL3  | All LEDs should turn ON in clockwise manner when blue switch pressed thrice |
 |LL4|All LEDs should turn ON in anticlockwise manner when blue switch pressed 4 times|
+
+
+# SWOT Analysis
+
+
+
+
+
+# 5W's and 1H
+
+
+
+
+
+
+# Applications
+
 
 
